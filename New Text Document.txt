@@ -1,3 +1,0 @@
-key store path : hamidreza
-and all parameters: hamidreza
-years : 25
